@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620841862754",
+    "project_id": "firebase-vegs"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620841862754:android:cd98528498ba063d",
+        "android_client_info": {
+          "package_name": "com.vegs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620841862754-jcqvkqjfnj7u1uapjkt8s11135l55ihl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "620841862754-c1b6fruc26iegai9l7cfos3tsbku69jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vegs",
+            "certificate_hash": "d57996905b814912c61762d2dff4f3cf3631346b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmgWZ70hXbNbSsc2irPCd2hB3Xap_Oh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

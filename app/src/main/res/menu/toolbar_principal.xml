@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuAjuda"
+        android:icon="@drawable/ic_mais"
+        android:title="@string/Ajuda"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuSobre"
+        android:icon="@drawable/ic_mais"
+        android:title="@string/Sobre"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuSair"
+        android:title="@string/Sair"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+
+</menu>

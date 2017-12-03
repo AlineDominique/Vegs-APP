@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Vegs</string>
+    <string name="login">Logar usando uma conta Google</string>
+    <string name="inscrever"><u>Inscrever-se</u></string>
+    <string name="informe_email_e_senha">Informe o e-mail e a senha</string>
+    <string name="Escanear">Escanear</string>
+    <string name="Notificacoes">Notificações</string>
+    <string name="Configuracoes">Configurações</string>
+    <string name="Sobre">Sobre</string>
+    <string name="Editar">Editar</string>
+    <string name="Nome">Nome</string>
+    <string name="TempoPreparo">Tempo de Preparo</string>
+    <string name="ModoPreparo">Modo de Preparo</string>
+    <string name="Ingrediente">Ingrediente</string>
+    <string name="Quantidade">Quantidade</string>
+    <string name="Medida">Medida</string>
+    <string name="Dicas">Dicas</string>
+    <string name="Autor">Autor</string>
+    <string name="Email">E-mail</string>
+    <string name="Telefone">Telefone (xx xxxx-xxxx)</string>
+    <string name="Cidade">Cidade</string>
+    <string name="Bairro">Bairro</string>
+    <string name="Sair">Sair</string>
+    <string name="Ajuda">Ajuda</string>
+    <string name="LinkAjuda">Manual</string>
+    <string name="Salvar">Salvar</string>
+    <string name="AdicionarIngredientes">Adicionar Ingredientes</string>
+    <string name="Atualizar">Atualizar Dados</string>
+    <string name="Excluir">Excluir Conta</string>
+    <string name="SalvarQRCode">Salvar QRCode</string>
+    <string name="Desaparecido">Desaparecido?</string>
+    <string name="Animal">Animal</string>
+    <string name="Idade">Idade</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Porcoes">Porções</string>
+    <string name="Especie">Espécie</string>
+    <string name="Raca">Raça</string>
+    <string name="NomeDono">Nome do dono</string>
+    <string name="TelefoneDono">Telefone do dono</string>
+    <string name="title_activity_act_mapa">Mapa</string>
+    <string name="tvMapType">Tipo de Lugar</string>
+    <string name="tituloMapa">Appet - Mapa</string>
+    <string name="MensagemPopup">Digite a mensagem:</string>
+    <string name="Mensagem">Mensagem</string>
+    <string name="SemConexão">Sem conexão de internet.</string>
+    <string name="Manual">https://drive.google.com/file/d/0B8jCVYPHUq2KX0lpT1B3S21iWXM/view</string>
+
+    <!--Telas-->
+    <string name="TelaPrincipal">Vegs - Menu</string>
+    <string name="TelaUsuario">Vegs - Usuário</string>
+    <string name="TelaNotificacoes">Vegs - Notificações</string>
+    <string name="TelaReceitas">Vegs - Receitas</string>
+    <string name="TelaFavoritos">Vegs - Favoritos</string>
+    <string name="TelaSobre">Vegs - Sobre</string>
+    <string name="TelaAjuda">Vegs - Ajuda</string>
+
+    <!--Evento-->
+    <string name="EventoObservacoes">Observações</string>
+    <string name="FlagAlerta">Alerta</string>
+    <string name="Alerta">Tipo de Alerta</string>
+
+    <!--Medicamento-->
+    <string name="NomeMedicamento">Nome do Medicamento</string>
+    <string name="Inicio">Data de Início</string>
+    <string name="Fim">Data de Fim</string>
+    <string name="FrequenciaDiaria">Frequência Diária</string>
+    <string name="HorasDeEspera">Tempo de Espera (hs)</string>
+
+    <!--Vacina-->
+    <string name="NomeVacina">Nome da Vacina</string>
+    <string name="Aplicada">Aplicada?</string>
+    <string name="DataAplicacao">Data da Aplicação</string>
+    <string name="DataValidade">Data de Validade</string>
+    <string name="FrequenciaAnual">Frequência Anual</string>
+    <string name="QtdDoses">Qtd de Doses</string>
+
+    <!--Compromisso-->
+    <string name="NomeCompromisso">Nome do Compromisso</string>
+    <string name="NomeLocal">Nome do Local</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="DataHora">Data e Hora</string>
+    <string name="Data">Data</string>
+    <string name="Hora">Hora</string>
+
+    <string name="TextoAjuda">Utilize o link abaixo para acessar o manual.</string>
+
+</resources>
