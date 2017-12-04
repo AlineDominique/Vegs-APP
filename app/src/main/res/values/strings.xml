@@ -50,6 +50,7 @@
     <string name="TelaUsuario">Vegs - Usuário</string>
     <string name="TelaNotificacoes">Vegs - Notificações</string>
     <string name="TelaReceitas">Vegs - Receitas</string>
+    <string name="TelaAtualizarReceita">Vegs - Atualizar Receita</string>
     <string name="TelaFavoritos">Vegs - Favoritos</string>
     <string name="TelaSobre">Vegs - Sobre</string>
     <string name="TelaAjuda">Vegs - Ajuda</string>
